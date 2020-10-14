@@ -13,3 +13,4 @@ DISCORD_TOKEN=MTg-this-IzNzU3OTA5NjA-is.not-DCeFB-a.real-r4DQlO-t0ken-qerT0
 Save the file, and start your app, and it should login.
 
 For more setup instructions and a guide to write your own bots, please visit [An Idiot's Guide](https://anidiots.guide)
+[![Run on Repl.it](https://repl.it/badge/github/eslachance/bf-basic)](https://repl.it/github/eslachance/bf-basic)
